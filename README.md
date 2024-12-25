@@ -85,9 +85,10 @@ Place the file in the specified path and update the `file_path` variable in the 
 
 ## Visualizations
 - **Driver Points Over Time:**
-  ![Example Plot: Driver Points](Rplot01.png)
+  ![Driver Points](Rplot01.png)
 
 - **Forecast vs Actual:**
+  
   ![Forecast vs Actual](Rplot.png)
 
 - **Future Performance forecast:**
